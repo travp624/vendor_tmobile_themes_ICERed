@@ -3,6 +3,8 @@
     <item name="color/holo_blue_light">@color/arcee_maincolor</item>
     <item name="color/holo_blue_dark">@color/arcee_maincolor_dark</item>
     <item name="color/holo_blue_bright">@color/arcee_maincolor_bright</item>
+    <item name="color/highlighted_text_holo_dark">@color/arcee_maincolor</item>
+    <item name="color/highlighted_text_holo_light">@color/arcee_maincolor</item>
     <item name="drawable/button_onoff_indicator_on">@drawable/frameworks_res_button_onoff_indicator_on</item>
     <item name="drawable/star_on">@drawable/frameworks_res_star_on</item>
     <item name="drawable/star_off">@drawable/frameworks_res_star_off</item>
@@ -151,6 +153,4 @@
     <item name="drawable/scrubber_control_selector_holo">@drawable/frameworks_res_scrubber_control_selector_holo</item>
     <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
     <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
-    <item name="color/highlighted_text_holo_dark">@color/arcee_maincolor</item>
-    <item name="color/highlighted_text_holo_light">@color/arcee_maincolor</item>
 </resource-redirections>
