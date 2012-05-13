@@ -12,6 +12,11 @@
         android:resource="@xml/com_android_browser"
         android:minSdkVersion="14" />
 
+    <package-redirections 
+        android:name="com.android.calculator"
+        android:resource="@xml/com_android_calculator"
+        android:minSdkVersion="14" />
+
     <package-redirections
         android:name="com.android.calendar"
         android:resource="@xml/com_android_calendar"
@@ -20,6 +25,11 @@
     <package-redirections
         android:name="com.android.contacts"
         android:resource="@xml/com_android_contacts"
+        android:minSdkVersion="14" />
+
+    <package-redirections 
+        android:name="com.android.deskclock"
+        android:resource="@xml/com_android_deskclock"
         android:minSdkVersion="14" />
 
     <package-redirections 

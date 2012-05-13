@@ -16,5 +16,5 @@
  -->
  
 <resource-redirections>
-    <item name="mipmap/ic_launcher_email">@mipmap/com_android_email_ic_launcher_email</item>
+    <item name="mipmap/ic_launcher_deskclock">@mipmap/com_android_deskclock_ic_launcher_alarmclock</item>
 </resource-redirections>
