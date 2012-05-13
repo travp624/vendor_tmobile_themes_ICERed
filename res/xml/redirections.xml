@@ -13,8 +13,8 @@
         android:minSdkVersion="14" />
 
     <package-redirections 
-        android:name="com.android.calculator"
-        android:resource="@xml/com_android_calculator"
+        android:name="com.android.calculator2"
+        android:resource="@xml/com_android_calculator2"
         android:minSdkVersion="14" />
 
     <package-redirections
