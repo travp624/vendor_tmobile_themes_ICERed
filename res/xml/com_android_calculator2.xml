@@ -16,5 +16,9 @@
  -->
  
 <resource-redirections>
+    <item name="color/magic_flame">@color/arcee_maincolor</color>
+    <item name="color/button_text">@color/arcee_maincolor_dark</color>
+    <item name="drawable/btn_keyboard_key_dark_pressed_holo">@drawable/com_android_calculator2_btn_keyboard_key_dark_pressed_holo</item>
+    <item name="drawable/btn_keyboard_key_light_pressed_holo">@drawable/com_android_calculator2_btn_keyboard_key_light_pressed_holo</item>
     <item name="mipmap/ic_launcher_calculator">@mipmap/com_android_calculator_ic_launcher_calculator</item>
 </resource-redirections>
