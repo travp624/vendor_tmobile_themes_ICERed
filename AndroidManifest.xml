@@ -24,7 +24,7 @@
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 
-    <theme 
+    <theme
         pluto:themeId="ICE Red"
         pluto:styleId="@style/Red"
         pluto:name="@string/theme_name"
@@ -32,11 +32,7 @@
         pluto:author="@string/author"
         pluto:copyright="@string/copyright"
         pluto:wallpaperImage="@drawable/homescreen"
-        pluto:styleName="@string/style_appearance_name"
-        pluto:ringtoneName="Whistler"
-        pluto:ringtoneFileName="media/audio/ringtones/Whistler.mp3"
-        pluto:notificationRingtoneName="Spacious"
-        pluto:notificationRingtoneFileName="media/audio/notifications/Spacious.mp3">
+        pluto:styleName="@string/style_appearance_name">
 
         <!-- Currently this is not being read, but instead the redirections are
              inferred from the convention res/xml/<package_name>.xml. -->
